@@ -2,7 +2,7 @@
 ______________
 ![image](https://user-images.githubusercontent.com/91569726/176585079-e1d29924-83cf-4ee8-87a8-74a43daa7983.png)
 _________
-The waterfall trend shows the profit performance of sales category and states in each year
+The waterfall trend shows the profit performance of Yearly profits,sales,category and states in each year
 ![Kodak report first second page](https://user-images.githubusercontent.com/91569726/176585379-93c7dcd9-439c-40ec-a0c1-3ef6c9881fae.jpg)
 ________________
 ## Key inflencers
