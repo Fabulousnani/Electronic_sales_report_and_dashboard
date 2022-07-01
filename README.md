@@ -7,7 +7,7 @@ The waterfall trend shows the profit performance of Yearly profits,sales,categor
 ________________
 ## Key inflencers
 
-Below shows the Correlation of Price and profits in the distinct business Year.
+Below shows the Correlation of Price and profits in the business Year.
 ![kodak key influencers](https://user-images.githubusercontent.com/91569726/176586131-7d07e5c9-f88f-4ba2-ad14-1a8fa2936059.jpg)
 
 __________
